@@ -1,4 +1,4 @@
-#Samantha Tabone, MS
+#Samantha Tabone, MS#
 Partner at Focalpoint Partners
 Phone: 213-310-1986
 California, USA
@@ -8,7 +8,7 @@ LinkedIn: [linkedin.com/in/samtabone](https://linkedin.com/in/samtabone)
 
 Updated November 12, 2024
 
-#Education
+#Education#
 **MS,** University of Wisconsin Madison, School of Pharmacy
 Neuropharmacology of psychoactive molecules, applied to CNS drug development
 
